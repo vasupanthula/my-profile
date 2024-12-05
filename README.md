@@ -21,6 +21,6 @@
 ### 1.telugu
 ### 2.english
 ### 3.hindi
-[click here_github_link](https://github.com/)
+[click here_github_link](https://github.com/settings/profile)
 
 
